@@ -1,6 +1,6 @@
 Git and GitHub Beginner Tutorial 2 - Getting started - Install Git (mac)
 ===================================================
-Today we will learn
+Today lesson
 ———————————
 1. How to download and install git
 2. Signup and create account on GitHub
